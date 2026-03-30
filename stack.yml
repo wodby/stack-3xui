@@ -2,7 +2,7 @@ name: 3xui
 title: 3X UI
 icon: xui
 services:
-- name: 3xui
+- name: xui
   title: 3X UI
   service: 3xui
   required: true
