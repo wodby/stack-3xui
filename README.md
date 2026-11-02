@@ -11,6 +11,7 @@ composition for 3X UI.
 
 - [3X UI stack on Wodby](https://wodby.com/stacks/3xui)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [3X UI stack guide](https://wodby.com/docs/2.0/stacks/catalog/3xui/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
