@@ -1,6 +1,7 @@
 name: 3xui
 title: 3X UI
 icon: xui
+docs: https://wodby.com/docs/2.0/stacks/catalog/3xui/
 services:
 - name: xui
   title: 3X UI
